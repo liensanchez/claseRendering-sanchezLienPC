@@ -17,6 +17,7 @@ function ItemDetail () {
           .filter((producto) => producto.name === name)
             .map((producto) => (
               <div key={producto.ID}>
+              <h2>{producto.modelo}</h2>
               
               </div>
             ))

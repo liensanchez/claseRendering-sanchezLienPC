@@ -18,7 +18,7 @@ function ItemList() {
 
                                             <div className="card-header d-flex justify-content-center">
 
-                                              <h2>{`${producto.name}`}</h2>
+                                              <h2>{`${producto.modelo}`}</h2>
 
                                             </div>
 
